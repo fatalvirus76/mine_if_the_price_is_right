@@ -60,4 +60,4 @@ Externa program
 
 Det här skriptet är en kontrollpanel och innehåller inte själva mining-programmen.
 Du behöver själv ladda ner och installera de miners du vill använda (t.ex. GMiner, lolMiner, T-Rex, XMRig) och ange deras sökvägar i programmet.
-du kan ställe in sökvägen till dom olika minersarna i programmet.
+du kan ställe in sökvägen till dom i programmet.
